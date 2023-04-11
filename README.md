@@ -28,7 +28,7 @@ The sript alerts the customer via SMS that their credit balance is below a certa
 This reminder is done every day until the customer tops up their electricity token
 
 ### B. Site customer balance reminder
-The sript alerts the customer via SMS that their credit balance is below a certain threshold. In this case I set the threshold to Kshs. 100
+The sript alerts the customer via SMS that their credit balance is below a certain threshold. In this case I set the threshold to Kshs. 10
 This reminder is done after a specifed interval of days, in this case it is three days.
 NOTE:
 There are dependent files that contain the allowed and disallowed dates that are frequently updated to ensure the corrent dates are used during the alerting activites.
