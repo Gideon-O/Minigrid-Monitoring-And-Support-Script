@@ -10,4 +10,6 @@ With the integration of the hosting platform www.pythonanywhere.com, I always re
 
 If the site is offline for more that 24 hours, I start receiving information on how long the site has been offline.
 
-## For my SMS, I use Africastalking Bulk SMS. They have an easy to use API
+## ALERTS
+- I use Africastalking Bulk SMS. They have an easy to use API
+- Also, I use gmail API to deliver critical messages such as Low Credit balance
